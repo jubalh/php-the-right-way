@@ -1,14 +1,14 @@
 ---
-title: Built-in Web Server
+title: Eingebauter Webserver
 isChild: true
 ---
 
-## Built-in web server {#builtin_web_server_title}
+## Eingebauter Webserver {#builtin_web_server_title}
 
-You can start learning PHP without the hassle of installing and configuring a full-fledged web server (PHP 5.4 required). To start the server, run the following from your terminal in your project's web root:
+Du kannst anfangen PHP zu lernen ohne dich mit dem installieren und konfigurieren eines vollwertigen Webservers auseinandersetzen zu müssen (min. PHP 5.4 vorausgesetzt). Um den Server zu starten wechsle im Terminal in dein Projektverzeichnis und tippe folgendes:
 
     > php -S localhost:8000
 
-* [Learn about the built-in, command line web server][cli-server]
+* [Lerne mehr über den eingebauten Kommandozeilen Webserver][cli-server]
 
 [cli-server]: http://www.php.net/manual/en/features.commandline.webserver.php
