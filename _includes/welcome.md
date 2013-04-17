@@ -5,7 +5,7 @@ Damit muss Schluss sein. _PHP: The Right Way_ ist eine einfach zu lesende, Schne
 
 ## Übersetzungen
 
-_PHP: The Right Way_ is (or soon will be) translated into many different languages:
+_PHP: The Right Way_ ist (bald) in vielen verschiedenen Sprachen verfügbar: 
 
 * [English](http://www.phptherightway.com)
 * [Chinese](http://wulijun.github.com/php-the-right-way)
